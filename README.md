@@ -70,6 +70,3 @@ The results also included one MAC addresses.
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
-**Note:** The actual subnet, number of hosts and addresses should be replaced with the results from my own network when submitting the report.
-
-
