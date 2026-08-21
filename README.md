@@ -62,14 +62,11 @@ For the second activity, I used **Zenmap** to perform network discovery on my lo
 
 I first used the Windows `ipconfig` command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected **Ping Scan** to identify active hosts.
 
-The example results provided in the practical identified four live hosts:
+The results provided identified one live hosts:
 
-- `10.0.0.1`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
+192.168.56.1
 
-The example results also included four MAC addresses.
+The results also included one MAC addresses.
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
