@@ -1,5 +1,5 @@
 # Website-penetration-testing-networkwalks-B082-week-2-project
-
+Footprinting & Network Scanning Phases | CYBERSECURITY | NETWORKWALKS
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
 
 | Field | Detail |
